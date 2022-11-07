@@ -8,10 +8,9 @@
 
 # Buatlah folder baru dengan nama lab6_css_framework, kemudian buat dokumen baru html.
 # Buka web https://getbootstrap.com, Karna Saya Disini Menggunakan Secara Online, Jadi Langsung Copy Framework pada web boostrap tersebut.
-# Langkah-Langkah Membuat Dokumen HTML dengan tampilan javascript
 # Langkah 1
 # Proses 1
-# Tampilan contoh java script
+# Ini Tampilan Pertama CSS , Framewok pada bootstrap.
 ![Gambar 1](SS/ss1.png)
 # Langkah 2
 # Proses 2
